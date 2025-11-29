@@ -1,6 +1,3 @@
-# -HERB-GROW-MONITOR
-Herb Grow Helper
-
 📁 PROJECT STRUCTURE
 text
 CannabisGrowMonitor/
